@@ -24,11 +24,6 @@
 
  </div>
 
-<p align="center">
-  <img src="animated.gif" align="center" width="90%" />
-</p>
-
- 
 <div align="center"> 
   <a href="mailto:shreyashr444@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -42,7 +37,10 @@
 </div>
 
  <hr/>
- 
+ <p align="center">
+  <img src="animated.gif" align="center" width="90%" />
+</p>
+ <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
