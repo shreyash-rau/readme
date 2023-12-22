@@ -23,6 +23,11 @@
 ⚡ Fun fact **The Witcher: The cloaks of the Night's Watch are made from Ikea rugs**.
 
  </div>
+
+<p align="center">
+  <img src="animated.gif" align="center" width="90%" />
+</p>
+
  
 <div align="center"> 
   <a href="mailto:shreyashr444@gmail.com">
